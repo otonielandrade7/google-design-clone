@@ -1,12 +1,24 @@
+
 # Google Clone
 
+  
+
 This repository consists of a small practice made only with html and css
+
 The goal was to make a conceptual clone of the google page.
+
+  
 
 ### Google Original Page
 
-![Google%20Clone%202ff7380afc324687a07dd059c2a108a5/chrome_hy1qmH7FPC.png](Google%20Clone%202ff7380afc324687a07dd059c2a108a5/chrome_hy1qmH7FPC.png)
+  
+
+![https://lh4.googleusercontent.com/iJxh8RwUj0XkGVHKPvvve2O0YrHtX7LREKYfg2m26ELr77hS-xvrZYlQPjuQfpevzSjmY44hnHnw0OwP7GAl=w1366-h667-rw](https://lh4.googleusercontent.com/iJxh8RwUj0XkGVHKPvvve2O0YrHtX7LREKYfg2m26ELr77hS-xvrZYlQPjuQfpevzSjmY44hnHnw0OwP7GAl=w1366-h667-rw)
+
+  
 
 ### Google Clone Page
 
-![Google%20Clone%202ff7380afc324687a07dd059c2a108a5/chrome_XqVWeaQhpU.png](Google%20Clone%202ff7380afc324687a07dd059c2a108a5/chrome_XqVWeaQhpU.png)
+  
+
+![https://lh4.googleusercontent.com/hvvJPtlWw0qnlCoRjM4_ZycaTbN8JCLZqrVqHFUsWrsd_TXt9eHhEHw4YRVxSeObvryyi5AbH7u5mnZGZEO2=w1366-h667-rw](https://lh4.googleusercontent.com/hvvJPtlWw0qnlCoRjM4_ZycaTbN8JCLZqrVqHFUsWrsd_TXt9eHhEHw4YRVxSeObvryyi5AbH7u5mnZGZEO2=w1366-h667-rw)
