@@ -4,14 +4,64 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
     <title>Google</title>
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 
 <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <header class="header flex flex-end">
+        <nav class="nav flex">
+            <ul class="nav-list">
+                <li class="nav-item"><a class="link link-text" href="">Gmail</a></li>
+                <li class="nav-item"><a class="link link-text" href="">Imágenes</a></li>
+                <li class="nav-item"><a class="link" href=""><img class="menu-icon" src="./img/menu-icon.svg" width="25"
+                            alt=""></a></li>
+                <li class="nav-item"><a class="link" href=""><img width="32" height="32" class="rounded"
+                            src="./img/perfil.png" alt=""></a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main-content">
+        <div class="searcher-container">
+            <div class="searcher">
+                <picture class="logo-container">
+                    <img src="./img/google.png" class="logo-google" width="272" alt="">
+                </picture>
+
+                <label class="search-bar  rounded-circle flex flex-center">
+                    <div class="search-icon flex"><img src="./img/lupa.svg" class="align-self" width="15" alt=""></div>
+                    <input class="search-input" type="text">
+                    <div class="search-mic"><img src="./img/mic.png" width="15" alt=""></div>
+                </label>
+                <div class="buttons flex">
+                    <button class="btn">Buscar con Google</button>
+                    <button class="btn">Me siento con suerte</button>
+                </div>
+            </div>
+        </div>
+        <div class="lang-google">
+            <p>Ofrecido por Google en: &nbsp; &nbsp;</p> <a href=""> English</a>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="footer-header flex">
+            <p>El Salvador</p>
+        </div>
+        <div class="footer-content flex">
+            <div class="content-1">
+                <a class="link link-text footer-link" href="">Publicidad</a>
+                <a class="link link-text footer-link" href="">Negocios</a>
+                <a class="link link-text footer-link" href="">Sobre Google</a>
+                <a class="link link-text footer-link" href="">Cómo funciona la Búsqueda</a>
+            </div>
+            <div class="content-2">
+                <a class="link link-text footer-link" href="">Privacidad</a>
+                <a class="link link-text footer-link" href="">Condiciones</a>
+                <a class="link link-text footer-link" href="">Preferencias</a>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
